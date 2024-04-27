@@ -1,0 +1,14 @@
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\bin\Debug\net6.0\CalculadoraApp.exe
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\bin\Debug\net6.0\CalculadoraApp.deps.json
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\bin\Debug\net6.0\CalculadoraApp.runtimeconfig.json
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\bin\Debug\net6.0\CalculadoraApp.dll
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\bin\Debug\net6.0\CalculadoraApp.pdb
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.dll
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\refint\CalculadoraApp.dll
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.pdb
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\CalculadoraApp.genruntimeconfig.cache
+C:\Users\wesll\Documents\Projects\Projects-DIO\Projeto TDD\CalculadoraApp\obj\Debug\net6.0\ref\CalculadoraApp.dll
